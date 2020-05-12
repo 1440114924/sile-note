@@ -32,6 +32,11 @@ git commit -m "输入你本次提交的文字"
 git push -u origin master
 ```
 
+### 3.同步项目到本地
+```
+git pull
+```
+
 ## 新创建的项目
 ```
 echo # hello >> README.md	##在项目根目录下创建README.md文件,并输入内容hello
