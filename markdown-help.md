@@ -68,36 +68,34 @@ puts markdown.to_html
 ```
 
 
-#### 强调
+# 强调
 在Markdown中，可以使用 * 和  _  来表示斜体和加粗。
 
 
-#### 斜体：
+### 斜体：
 
 *Coding，让开发更简单*
 _Coding，让开发更简单_
 
 
-#### 加粗：
+### 加粗：
 
 **Coding，让开发更简单**
 __Coding，让开发更简单__
 
-#### 删除线:
+### 删除线:
 ~~删除线内容~~
 
-#### 下划线:
-<ins>下划线效果  
-<u>下划线
+### 下划线:
+<ins>下划线效果</ins>  
+<u>下划线</u>
+### 字体：
+<font size=3 color=green face="monaco">这是效果</font>
 
-#### 字体：
-<font size=3 color=green face="monaco">这是效果<font>
+### 背景色：
+<table><tr><td bgcolor=yellow>一段有背景色的文字</table></tr></td>
 
-#### 背景色：
-<table><tr><td bgcolor=yellow>一段有背景色的文字  
-
-
-## 自动链接
+# 自动链接
 方括号显示说明，圆括号内显示网址， Markdown 会自动把它转成链接，例如：
 
 [超强大的云开发平台Coding](http://coding.net)
@@ -121,7 +119,7 @@ Left         | Center        | Right
 
 
 
-##分割线
+## 分割线
 #### 在 Markdown 中，可以使用 3 个以上『-』符号制作分割线，例如：
 
 
@@ -132,12 +130,13 @@ Left         | Center        | Right
 
 
 ## 图片
-<img src="需要插入的图片地址" />
-<img width="300px" src="/home/sile/Pictures/pixiv/bcy1.jpg" />
+```
+<img width="图片宽度"(可省略) src="需要插入的图片地址" />
+```
+<img width="300px" src="/home/sile/Pictures/pixiv/pixiv50099555.jpg">
 
-<img src="./home/sile/Pictures/pixiv/bcy1.jpg" />
-![jpg](https://github.com/1440114924/sile-pictures/raw/master/pixiv/bcy1.jpg)
-## 换行：
-两个连续的空格加回车
+<img src="/home/sile/Pictures/pixiv/pixiv50099555.jpg">
+## 换行:
+<br>两个连续的空格加回车<br>
 <br>html换行标签<br>
 
