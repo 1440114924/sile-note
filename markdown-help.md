@@ -131,11 +131,16 @@ Left         | Center        | Right
 
 ## 图片
 ```
-<img width="图片宽度"(可省略) src="需要插入的图片地址" />
+<img width="图片宽度"(可省略) height="图片高度" src="需要插入的图片地址" />
+or
+![图片描述](图片地址)
+<div> align=center (居中显示)
 ```
-<img width="300px" src="/home/sile/Pictures/pixiv/pixiv50099555.jpg">
+![avatar](/home/sile/Videos/ASMR/5349401.mp4)
+<img swidth="700px" src="https://downloadsource.quqi.com/api/download/resource/quqi_document-5B397614DFC5717F7A984E771D317129_2711836?et=0&se=1587563453508.png&ce=application/force-download&qd=3537549&or=https://quqi.com&st=1&re=2&tn=GiJyngB0MM75ru7R&te=1592976660&si=530eae746714fafe13d99d462d857091" />
+<div align=center><img height="700px" src="https://downloadsource.quqi.com/api/download/resource/quqi_document-CFA5F431D8D532A0F11754A25F8029D8_3027071?et=0&se=35483089_p0.png&ce=application/force-download&qd=3537549&or=https://quqi.com&st=1&re=2&tn=5dX93RVcDFFlEv7b&te=1592975422&si=b5df602396e00260e84a9c59a2a43245">
+</div>
 
-<img src="/home/sile/Pictures/pixiv/pixiv50099555.jpg">
 ## 换行:
 <br>两个连续的空格加回车<br>
 <br>html换行标签<br>
