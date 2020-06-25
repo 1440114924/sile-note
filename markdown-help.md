@@ -90,10 +90,12 @@ __Coding，让开发更简单__
 <ins>下划线效果</ins>  
 <u>下划线</u>
 ### 字体：
-<font size=3 color=green face="monaco">这是效果</font>
+<font size=3 color=green face="monaco">这是效果
+</font>
 
 ### 背景色：
-<table><tr><td bgcolor=yellow>一段有背景色的文字</table></tr></td>
+<table><tr><td bgcolor=yellow>一段有背景色的文字
+</table></tr></td>
 
 # 自动链接
 方括号显示说明，圆括号内显示网址， Markdown 会自动把它转成链接，例如：
