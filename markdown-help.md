@@ -139,9 +139,9 @@ or
 <div> align=center (居中显示)
 ```
 
-![avatar]()
-<img swidth="700px" src="" />
-<div align=center><img height="700px" src="">
+![avatar](https://ali.xmssdn.micloud.mi.com/2/1566455553514/get_thumbnail?sig=9PzsS187uDSu4uMX753PCrTyjeg&data=Rz0-gLvAD5cd5GfIRjrdumbChZ3DR01Yu3qHzotYIwXen-sptgFXc6nVJEqorGLoM3bjJV5C6syuKrWodnBb3gfo3HT0O8zHWcgJ7UyBSBzY7CjaqMD8C21Gx1dnbwtAop2hkwP1XtmnAVx67zp-qE5iirq0LcobfjG0LTc96oKi0igslaUWh-ZNN-Ge22VsDN44nF1rZLqER4m-WIe2Y7ZN3CJA3Aqux4NL7ycJvqzlW-SgMno0XC4M6C-NXgyOjszM7Wtd9kYIPPAul9_ElTXs0_691S0eN35XCFGAQbZR6jStqcLI_VeoQzT5mWjKtCCsyz9QtcDM&ts=1594050550841&w=270&h=270&r=0&_cachekey=ed35a40823160071f137179d12b5474b)
+<img width="70px" src="https://ali.xmssdn.micloud.mi.com/2/1566455553514/get_thumbnail?sig=9PzsS187uDSu4uMX753PCrTyjeg&data=Rz0-gLvAD5cd5GfIRjrdumbChZ3DR01Yu3qHzotYIwXen-sptgFXc6nVJEqorGLoM3bjJV5C6syuKrWodnBb3gfo3HT0O8zHWcgJ7UyBSBzY7CjaqMD8C21Gx1dnbwtAop2hkwP1XtmnAVx67zp-qE5iirq0LcobfjG0LTc96oKi0igslaUWh-ZNN-Ge22VsDN44nF1rZLqER4m-WIe2Y7ZN3CJA3Aqux4NL7ycJvqzlW-SgMno0XC4M6C-NXgyOjszM7Wtd9kYIPPAul9_ElTXs0_691S0eN35XCFGAQbZR6jStqcLI_VeoQzT5mWjKtCCsyz9QtcDM&ts=1594050550841&w=270&h=270&r=0&_cachekey=ed35a40823160071f137179d12b5474b" />
+<div align=center><img height="70px" src="https://ali.xmssdn.micloud.mi.com/2/1566455553514/get_thumbnail?sig=9PzsS187uDSu4uMX753PCrTyjeg&data=Rz0-gLvAD5cd5GfIRjrdumbChZ3DR01Yu3qHzotYIwXen-sptgFXc6nVJEqorGLoM3bjJV5C6syuKrWodnBb3gfo3HT0O8zHWcgJ7UyBSBzY7CjaqMD8C21Gx1dnbwtAop2hkwP1XtmnAVx67zp-qE5iirq0LcobfjG0LTc96oKi0igslaUWh-ZNN-Ge22VsDN44nF1rZLqER4m-WIe2Y7ZN3CJA3Aqux4NL7ycJvqzlW-SgMno0XC4M6C-NXgyOjszM7Wtd9kYIPPAul9_ElTXs0_691S0eN35XCFGAQbZR6jStqcLI_VeoQzT5mWjKtCCsyz9QtcDM&ts=1594050550841&w=270&h=270&r=0&_cachekey=ed35a40823160071f137179d12b5474b">
 </div>
 
 ## 换行:
