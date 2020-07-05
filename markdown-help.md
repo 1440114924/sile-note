@@ -138,10 +138,10 @@ or
 ![图片描述](图片地址)
 <div> align=center (居中显示)
 ```
-可以使用图床imgchr.com
-![avatar](https://s1.ax1x.com/2020/06/28/Ngoihn.jpg)
-<img swidth="700px" src="https://s1.ax1x.com/2020/06/28/NgquWj.jpg" />
-<div align=center><img height="700px" src="https://s1.ax1x.com/2020/06/28/N2Prng.jpg">
+
+![avatar]()
+<img swidth="700px" src="" />
+<div align=center><img height="700px" src="">
 </div>
 
 ## 换行:
