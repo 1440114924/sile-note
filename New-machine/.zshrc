@@ -13,7 +13,7 @@ export EDITOR="nvim"
 alias nv="nvim"
 alias rg="ranger"
 alias snv="sudo nvim"
-alias system-upgrade="sudo pacman -Syu"
+alias system-backup="tar cvpzf backup.tar.gz --exclude=/proc --exclude=/lost+found --exclude=/backup.tar.gz --exclude=/home/sile/.local/share/Steam/steamapps/common --exclude=/home/sile/.steam/steam/steamapps/common --exclude=/mnt --exclude=/sys /"
 
 # ======================================================================
 # Set name of the theme to load --- if set to "random", it will
