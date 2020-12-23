@@ -1,6 +1,6 @@
 # Chromium shortcut key
 
-##窗口和标签页快捷键
+## 窗口和标签页快捷键
 KEY    | FUNCTION
 :--:   | :--
 Ctrl+N |	打开新窗口
