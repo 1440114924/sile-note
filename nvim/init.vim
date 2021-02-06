@@ -36,12 +36,6 @@ exec "nohlsearch"
 
 " neovim-plug config
 call plug#begin('/home/sile/.vim/plugged')
-Plug 'preservim/tagbar'
-Plug 'mbbill/undotree/'
-Plug 'kevinoid/vim-jsonc' 
-Plug 'neoclide/coc.nvim', {'branch': 'release'}
-Plug 'preservim/nerdtree'
-Plug 'dense-analysis/ale'
 Plug 'vim-airline/vim-airline'
 Plug 'connorholyday/vim-snazzy'
 Plug 'iamcco/markdown-preview.nvim', { 'do': { -> mkdp#util#install() } }
@@ -52,23 +46,6 @@ call plug#end()
 
 
 
-let g:clipboard = {
-            \   'name': 'myClipboard',
-            \   'copy': {
-            \      '+': 'tmux load-buffer -',
-            \      '*': 'tmux load-buffer -',
-            \    },
-            \   'paste': {
-            \      '+': 'tmux save-buffer -',
-            \      '*': 'tmux save-buffer -',
-            \   },
-            \   'cache_enabled': 1,
-            \ }
-
-" neovim python
-"let g:python3_host_prog = 'f:\anaconda3\python.exe'
-let g:python3_host_prog = '/usr/bin/python3'
-let g:python_host_prog = '/usr/bin/python'
 
 
 
@@ -83,9 +60,6 @@ color snazzy
                                           
                                           
 source /home/sile/.config/nvim/markdown-preview.vim
-source /home/sile/.config/nvim/Compile-run-test.vim
 source /home/sile/.config/nvim/My-mapping.vim
-source /home/sile/.config/nvim/coc.vim
-source /home/sile/.config/nvim/ale.vim
 
 
